@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Derm-IT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Derm-IT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Derm-IT/azure-network-protocols)
+  - [Azure Network Analysis & Network Security Groups](https://github.com/Derm-IT/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
