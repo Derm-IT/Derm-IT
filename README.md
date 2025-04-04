@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Derm-IT/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Derm-IT/post-install-config)
-  - [osTicket: Ticket Workflow](https://github.com/Derm-IT/ticket-lifecycle)
+  - [osTicket: Ticket Workflow](https://github.com/Derm-IT/ticket-workflow)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Derm-IT/configure-ad)
   - [Azure Network Analysis & Network Security Groups](https://github.com/Derm-IT/azure-network-protocols)
