@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Derm-IT/post-install-config)
   - [osTicket: Ticket Workflow](https://github.com/Derm-IT/ticket-workflow)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Derm-IT/configure-ad)
+  - [Configuring an Active Directory Domain Controller environment with Azure VMs](https://github.com/Derm-IT/domain-controller-azure-setup-ad)
   - [Azure Network Analysis & Network Security Groups](https://github.com/Derm-IT/azure-network-protocols)
 
 <h2>Connect with me:</h2>
