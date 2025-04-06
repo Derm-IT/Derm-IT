@@ -8,8 +8,8 @@
   - [osTicket: Ticket Workflow](https://github.com/Derm-IT/ticket-workflow)
 - <b>Microsoft Azure</b>
   - [Installing Activte Directory Domain Services and Configuring a Domain Controller Environment with Azure VMs](https://github.com/Derm-IT/domain-controller-azure-setup-ad)
-  - [Active Directoy Configuration in Azure DC](https://github.com/Derm-IT/deploy-configure-ad)
-  - [Azure Network Analysis & Network Security Groups](https://github.com/Derm-IT/azure-network-protocols)
+  - [Active Directory Configuration and Automation in Azure](https://github.com/Derm-IT/deploy-configure-ad)
+  - [Azure Virtual Machines and Network Traffic Analysis](https://github.com/Derm-IT/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
