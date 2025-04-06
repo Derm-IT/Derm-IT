@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Installing Activte Directory Domain Services and Configuring a Domain Controller Environment with Azure VMs](https://github.com/Derm-IT/domain-controller-azure-setup-ad)
   - [Active Directory Configuration and Automation in Azure](https://github.com/Derm-IT/deploy-configure-ad)
+  - [Group Policy: Account Lockout and Security Management](https://github.com/Derm-IT/gp-account-lockout-ad)
   - [Azure Virtual Machines and Network Traffic Analysis](https://github.com/Derm-IT/azure-network-protocols)
 
 <h2>Connect with me:</h2>
