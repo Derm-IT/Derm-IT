@@ -1,4 +1,7 @@
-<h1>Hi, I'm Dermot, an <a href="https://linkedin.com/in/dermot-behan">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dermot, an <a href="https://linkedin.com/in/dermot-behan">IT Professional</a></h1>
+
+<h2>About</h2>
+<p>Adaptable technology professional with a strong problem-solving mindset, capable of diagnosing and resolving complex technical issues. Experienced in collaborating with diverse teams, providing user-friendly support, and effectively communicating solutions to both technical and non-technical users.</p>
 
 <h2>Information Technology Projects:</h2>
 
